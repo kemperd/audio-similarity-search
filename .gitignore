@@ -1,0 +1,8 @@
+.esc50.db.lock
+esc50.db
+*.zip
+ESC-50-master/
+esc50/
+__pycache__/
+audio_classification_model/
+wav2vec2-large-finetuned-gtzan/
