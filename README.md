@@ -1,5 +1,9 @@
 # audio-similarity-search
 
+Comparison of two audio similarity search methods using vector databases and a finetuned classifier.
+
+Instructions and tutorial at the following URL: https://www.analytix.nl/post/vector-search-vs-model-retraining-a-comparison-of-audio-similarity-search-methods/
+
 Tested with Python 3.13.2
 
 1. git clone https://github.com/kemperd/audio-similarity-search
